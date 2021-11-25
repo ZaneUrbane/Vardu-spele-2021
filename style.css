@@ -1,0 +1,40 @@
+.wrapper
+{
+    background-color: bisque;
+    padding:10px;
+    width: 600px;
+    margin-left:auto;
+    margin-right:auto;
+}
+h1
+{
+text-align: center;
+padding: 5px;
+}
+ul
+{
+    text-align: center;
+    padding:0px;
+}
+li
+{
+    display: inline-block;
+}
+.game
+{width:350px;
+background: bisque;
+text-align: center;
+margin-left:auto;
+margin-right:auto;
+}
+.block
+{
+    display:inline-block;
+    background: chocolate;
+    width: 100px;
+    height:100px;
+    border:1px solid rgb(116,1,1);
+    text-align:center;
+    margin:5px;
+    font-size:45px;
+}
